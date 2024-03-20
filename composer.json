@@ -2,7 +2,7 @@
     "name": "kuzovkov/html",
     "description": "HTML and Form Builders for the Laravel Framework",
     "license": "MIT",
-    "homepage": "https://laravelcollective.com",
+    "homepage": "https://github.com/kuzovkov/html",
     "support": {
         "issues": "https://github.com/LaravelCollective/html/issues",
         "source": "https://github.com/LaravelCollective/html"
